@@ -1,0 +1,26 @@
+Project Overview
+
+In this project, We’ll combine the knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face!
+
+Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. The completed code should be able to look at any image, detect faces, and predict the locations of facial keypoints on each face.
+
+Project Instructions
+
+Notebook 1 : Loading and Visualizing the Facial Keypoint Data
+
+Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+
+Notebook 3 : Facial Keypoint Detection Using Haar Cascades and the Trained CNN
+
+Notebook 4 : Fun Filters and Keypoint Uses
+
+Note that this project does not require the use of GPU, so this repo does not include instructions for GPU setup.
+
+Data
+
+All of the data needed to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory data. In this folder are training and tests set of image/keypoint data, and their respective csv files which is further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
+
+Most of the code is prewritten in the notebooks present in the udacity worksapce. Rest of it has been taken from the udacity teaching material and videos lectures along with help from Github codes present on the internet.
+Guthub reference 
+https://github.com/darkmatter18
+https://github.com/pdudero

@@ -7,10 +7,6 @@ of 68 distinguishing keypoints on each face.
 
 Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. 
 
-Some examples of these keypoints are pictured below.
-
-![Center Image](images-readme/image-description.PNG)
-
 ## Files
 
 * `Notebook 1`: Loading and visualizing the facial keypoint data

@@ -10,12 +10,6 @@ SLAM gives us a way to track the location of a robot in the world in real-time a
 
 This is an active area of research in the field of robotics and autonomous systems.
 
-Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.
-
-<p align="center">
-  <img src="images/description.PNG">
-</p>
-
 ## Files
 
 - `Notebook 1` : Robot moving and sensing
